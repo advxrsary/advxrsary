@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+💬 <a href="https://t.me/advxrsary"><b>Telegram</b></a>
+🌐 <a href="https://advxrsary.me"><b>Portfolio</b></a>
+
 <!--
 **advxrsary/advxrsary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
